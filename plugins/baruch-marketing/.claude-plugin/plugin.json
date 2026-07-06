@@ -1,0 +1,19 @@
+{
+  "name": "baruch-marketing",
+  "description": "Baruch Hadad marketing toolkit: Hebrew landing-page workflow + copy/design/SEO/CRO skills and slash commands",
+  "version": "1.0.0",
+  "author": {
+    "name": "Baruch Hadad"
+  },
+  "keywords": [
+    "marketing",
+    "copywriting",
+    "landing-pages",
+    "hebrew",
+    "rtl",
+    "seo",
+    "cro",
+    "framer-motion"
+  ],
+  "license": "UNLICENSED"
+}

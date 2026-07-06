@@ -1,0 +1,28 @@
+{
+  "name": "baruch-marketing",
+  "owner": {
+    "name": "Baruch Hadad"
+  },
+  "metadata": {
+    "description": "Marketing, copywriting, design, SEO and CRO skills based on Baruch Hadad's methodology",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "baruch-marketing",
+      "source": "./plugins/baruch-marketing",
+      "description": "Hebrew landing-page workflow + copy/design/SEO/CRO skills and slash commands",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "copywriting",
+        "landing-pages",
+        "hebrew",
+        "rtl",
+        "seo",
+        "cro"
+      ]
+    }
+  ]
+}
